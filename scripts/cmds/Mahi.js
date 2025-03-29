@@ -2,7 +2,7 @@ const axios = require('axios');
 
 module.exports = {
   config: {
-    name: "mahi",
+    name: "sajid",
     version: "1.0",
     author: "Mahi--",
     role: 0,
@@ -27,14 +27,14 @@ module.exports = {
 
       // List of random texts
       const texts = [
-        "𝚈𝚘𝚞'𝚛𝚎 𝚞𝚗𝚠𝚘𝚛𝚝𝚑𝚢 𝚝𝚘 𝚠𝚛𝚒𝚝𝚎 𝚕𝚘𝚛𝚍 𝚖𝚊𝚑𝚒'𝚜 𝚗𝚊𝚖𝚎",
+        "𝚈𝚘𝚞'𝚛𝚎 𝚞𝚗𝚠𝚘𝚛𝚝𝚑𝚢 𝚝𝚘 𝚠𝚛𝚒𝚝𝚎 𝚕𝚘𝚛𝚍 sajid'𝚜 𝚗𝚊𝚖𝚎",
         "𝚈𝚎𝚜, 𝚖𝚢 𝚍𝚘𝚐𝚐𝚢, 𝚋𝚊𝚛𝚔. 𝚆𝚑𝚢 𝚍𝚒𝚍 𝚢𝚘𝚞 𝚠𝚛𝚒𝚝𝚎 𝚝𝚑𝚎 𝚕𝚘𝚛𝚍'𝚜 𝚗𝚊𝚖𝚎?",
         "𝙺𝚎𝚎𝚙 𝚋𝚊𝚛𝚔𝚒𝚗𝚐.",
         "𝚆𝚑𝚢 𝚊𝚛𝚎 𝚢𝚘𝚞 𝚋𝚊𝚛𝚔𝚒𝚗𝚐?"
       ];
 
       // Keywords to check for
-      const keywords = ["mahi", "mâhî", "høpéléss", "easir", "aizen"];
+      const keywords = ["sajid"];
 
       // The user ID to exclude
       const excludedUserId = "100072881080249";
